@@ -4,7 +4,7 @@
 # 스크린샷
 > 메인페이지
 
-<img src = "user-images.githubusercontent.com/66353700/101886394-c0e5db80-3bde-11eb-9c97-7b8ede9dcd10.png" width="400px" height="400px">
+<img src = "https://user-images.githubusercontent.com/66353700/101886394-c0e5db80-3bde-11eb-9c97-7b8ede9dcd10.png" width="400px" height="400px">
 
 > 검색
 
