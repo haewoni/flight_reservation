@@ -8,11 +8,12 @@
 
 > 검색
 
-![view](https://user-images.githubusercontent.com/66353700/101886403-c2af9f00-3bde-11eb-9138-e1d3ecd31431.png)
+<img src = "https://user-images.githubusercontent.com/66353700/101886403-c2af9f00-3bde-11eb-9138-e1d3ecd31431.png" width="400px" height="400px">
+
 
 > 예약
 
-![reservation](https://user-images.githubusercontent.com/66353700/101886406-c3e0cc00-3bde-11eb-9d94-0f9dd6915708.png)
+<img src = "https://user-images.githubusercontent.com/66353700/101886406-c3e0cc00-3bde-11eb-9d94-0f9dd6915708.png" width="400px" height="400px">
 
 # 개발환경
 * 언어: 자바
